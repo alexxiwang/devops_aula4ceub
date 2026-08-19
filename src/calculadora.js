@@ -7,6 +7,6 @@ function subtrair(a, b) {
 }
 
 module.exports = {
-  somar,
+  somargit
   subtrair
 };
